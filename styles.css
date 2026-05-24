@@ -62,3 +62,8 @@ input[type="submit"]:hover {
 .zxc {
   height: 200px;
 }
+.dy {
+  display: flex;
+  gap: 10px;
+  margin-bottom: 15px;
+}
